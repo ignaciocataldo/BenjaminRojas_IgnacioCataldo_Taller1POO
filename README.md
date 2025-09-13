@@ -30,4 +30,4 @@ La humanidad se encuentra en el año 2089, en medio de una crisis tecnológica. 
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+   https://github.com/tu_usuario/tu_repositorio.git
